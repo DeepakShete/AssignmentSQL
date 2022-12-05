@@ -1,0 +1,6 @@
+pilot=33000
+
+if pilot<5000: 
+  print("go around if altitude is more than 10K ft")
+else: 
+  print("land the plane by bringing it to 1000 ft")
